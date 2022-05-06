@@ -1,0 +1,42 @@
+.container{ 
+  float: left;
+  width: 100%;
+  height: 50%;
+  padding-top: 50px;
+}
+
+body{ 
+  color: #B768A2;
+  height: 300px;
+}
+
+body{
+   background-image:url(/images/8.png);
+}
+.button {
+    position: absolute;
+    background-color: white;
+    color: #B768A2;
+    border: 2px solid #B768A2;
+    border-radius:50px;
+  }
+
+hr.new3 { 
+  width:60%;
+  border-top: 8px dashed black;
+  text-align:left;
+  margin-left:0;
+}
+
+  #BackG{ float: left;
+    width: 40%;
+    height:300px;
+    margin-left: 10%;
+  }
+
+  .flower{ float: right;
+    width: 50%;
+    height:300 px;
+  }
+
+  .container, #thank_you{display: none;}
